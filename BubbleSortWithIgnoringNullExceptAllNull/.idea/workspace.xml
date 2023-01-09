@@ -33,7 +33,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2K3uv0hrY8FhmRMRm6v7L9CGCRS" />
   <component name="ProjectViewState">
@@ -41,8 +41,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -72,6 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673215813763</updated>
       <workItem from="1673215817697" duration="9250000" />
+      <workItem from="1673306947484" duration="402000" />
     </task>
     <servers />
   </component>
@@ -88,24 +92,29 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1281" height="243" key="GridCell.Tab.0.bottom" timestamp="1673306526994">
+    <state x="1588" y="459" key="FileChooserDialogImpl" timestamp="1673307035726">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1281" height="243" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1673306526994" />
-    <state width="1281" height="243" key="GridCell.Tab.0.center" timestamp="1673306526994">
+    <state x="1588" y="459" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1673307035726" />
+    <state width="1281" height="243" key="GridCell.Tab.0.bottom" timestamp="1673307351986">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1281" height="243" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1673306526994" />
-    <state width="1281" height="243" key="GridCell.Tab.0.left" timestamp="1673306526994">
+    <state width="1281" height="243" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1673307351986" />
+    <state width="1281" height="243" key="GridCell.Tab.0.center" timestamp="1673307351986">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1281" height="243" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1673306526994" />
-    <state width="1281" height="243" key="GridCell.Tab.0.right" timestamp="1673306526994">
+    <state width="1281" height="243" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1673307351986" />
+    <state width="1281" height="243" key="GridCell.Tab.0.left" timestamp="1673307351986">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1281" height="243" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1673306526994" />
+    <state width="1281" height="243" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1673307351986" />
+    <state width="1281" height="243" key="GridCell.Tab.0.right" timestamp="1673307351986">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1281" height="243" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1673307351986" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1673302281678">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
